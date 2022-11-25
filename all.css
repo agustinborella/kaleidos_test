@@ -1,0 +1,20 @@
+.mainstyle{
+    color: white;
+    background-color: black;
+    height: 100vh;
+    font-family: "Lexend", sans-serif;
+    align-items: flex-start;
+}
+
+.icons{font-size: x-large;}
+
+.contacto{
+font-style: italic;
+text-decoration: none;
+
+ }
+
+.onlylogo{align-content: flex-end; }
+ 
+ *{color: white;
+background: black;}
